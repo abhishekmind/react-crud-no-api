@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
-import './index.css';
+import App from './component/App';
+import './css/index.css';
 
 import postReducer from './reducer/postReducer';
 
